@@ -1,5 +1,14 @@
 const data = [
         {
+        day: '29',
+        month:'Apr',
+        stake: '10,000.00',
+        return: '20,754.50',
+        Match1: 'Arsenal v PSG',
+        Match2: 'El Daklyeh v El Terasanah',
+        win: true
+    },
+        {
         day: '28',
         month:'Apr',
         stake: '10,000.00',
