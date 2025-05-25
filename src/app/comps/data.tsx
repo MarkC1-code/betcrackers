@@ -2,7 +2,7 @@ const data = [
         {
         day: '24',
         month:'May',
-        stake: '15,000.00',
+        stake: '50,000.00',
         return: '860,775.59',
         Match1: 'Bologna v Genoa',
         Match2: 'AC Milan v Monza',
