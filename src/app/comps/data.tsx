@@ -14,7 +14,7 @@ const data = [
         day: '23',
         month:'May',
         stake: '20,000.00',
-        return: '660,775.59',
+        return: '1,654,775.59',
         Match1: 'Como v Inter',
         Match2: 'Napoli v Cagliari',
         Match3: 'Betis v Valencia',
